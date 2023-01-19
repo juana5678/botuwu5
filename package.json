@@ -1,6 +1,6 @@
 ﻿{
-  "nombre" : "UwU,último,bot"
-  "description": "SuperDownload bot listo y preparado para subir a las nubes de cuba.",
+  "nombre" :
+  "description" : "SuperDownload bot listo y preparado para subir a las nubes de cuba." ,
   "env": {
     "administrador": {
       "description": "Admin del bot sin el @",

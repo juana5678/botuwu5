@@ -7,7 +7,7 @@
 7 "compilación" : "echo \"Sin compilación especificada\" && exit 1" ,         
 8 "test" : "echo \"No se ha especificado ninguna prueba\" && exit 1" ,         
 9 "inicio" : "nodo index.js"         
-10 } ,    
+10 }
 
 11 "repositorio" : {     
 12 "tipo" : "git" ,         

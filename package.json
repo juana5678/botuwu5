@@ -1,4 +1,4 @@
-﻿
+
 2 {
 3 "nombre" : "botuwu5" ,     
 4 "versión" : "1.0.0" ,     
@@ -8,6 +8,7 @@
 8 "test" : "echo \"No se ha especificado ninguna prueba\" && exit 1" ,         
 9 "inicio" : "nodo index.js"         
 10 } ,    
+
 11 "repositorio" : {     
 12 "tipo" : "git" ,         
 13 "url" : "git+https://github.com/juana5678/botuwu5.git"         
